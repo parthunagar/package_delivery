@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "93704340999",
+    "project_id": "ship-pack",
+    "storage_bucket": "ship-pack.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93704340999:android:827216b294bf9dac1ccca2",
+        "android_client_info": {
+          "package_name": "com.shippack.delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "93704340999-sq8t2tvoa7a3dcscse4ekekv0evsp9jf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDuY9UO9SqQ4MCPh8e3Uiv_gBVfUzHqSI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "93704340999-sq8t2tvoa7a3dcscse4ekekv0evsp9jf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "93704340999-7dslb8btd2op5tda7poru2snpi5p0uu0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.shippack.delivery"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
